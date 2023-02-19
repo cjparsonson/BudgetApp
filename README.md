@@ -11,6 +11,9 @@ Fuad, Tleilax, Matt, Ramona, Lasagna
 ### Framework
 Django
 
+### DB
+PostgreSQL
+
 ####
 First meeting 19/02/2023
 
