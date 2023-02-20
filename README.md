@@ -118,7 +118,8 @@ See the [open issues](https://github.com/cjparsonson/BudgetApp/issues) for a ful
 * [Tleilax](https://github.com/cjparsonson)
 * [Matt](https://github.com/mbutcherdev)
 * [Ramona](https://github.com/RamonaGherasim)
-* [Lasagne](https://github.com/lasagna92)
+* [Lasagna](https://github.com/lasagna92)
+* Kashan
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -137,15 +138,15 @@ Distributed under the GNU v3.0 License. See [LICENSE](https://github.com/cjparso
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/BudgetApp.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/cjparsonson/BudgetApp.svg?style=for-the-badge
 [contributors-url]: https://github.com/cjparsonson/BudgetApp/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/BudgetApp.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/cjparsonson/BudgetApp.svg?style=for-the-badge
 [forks-url]: https://github.com/cjparsonson/BudgetApp/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/BudgetApp.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/cjparsonson/BudgetApp.svg?style=for-the-badge
 [stars-url]: https://github.com/cjparsonson/BudgetApp/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/BudgetApp.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/cjparsonson/BudgetApp.svg?style=for-the-badge
 [issues-url]: https://github.com/cjparsonson/BudgetApp/issues
-[license-shield]: https://img.shields.io/github/license/github_username/BudgetApp.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/cjparsonson/BudgetApp.svg?style=for-the-badge
 [license-url]: https://github.com/cjparsonson/BudgetApp/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
