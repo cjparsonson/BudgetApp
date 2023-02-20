@@ -119,7 +119,7 @@ See the [open issues](https://github.com/cjparsonson/BudgetApp/issues) for a ful
 * [Matt](https://github.com/mbutcherdev)
 * [Ramona](https://github.com/RamonaGherasim)
 * [Lasagna](https://github.com/lasagna92)
-* Kashan
+* [Kashan](https://github.com/k-sheikh)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
