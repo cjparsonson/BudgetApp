@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/cjparsonson/BudgetApp">
-    <img src="preview/logo.png" alt="Logo" width="80" height="80">
+    <img src="preview/logo.png" alt="Logo Coming Soon!" width="80" height="80">
   </a>
 
 <h3 align="center">Budget Application</h3>
@@ -22,10 +22,10 @@
   <p align="center">
     A Python/Django based budget application
     <br />
-    <a href="https://github.com/cjparsonson/BudgetApp"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/cjparsonson/BudgetApp/docs"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/cjparsonson/BudgetApp">View Demo</a>
+    <a href="https://budget.mbutcher.dev">View Demo</a>
     ·
     <a href="https://github.com/cjparsonson/BudgetApp/issues">Report Bug</a>
     ·
@@ -60,9 +60,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-
+<p align="center">
+  <a href="https://github.com/cjparsonson/BudgetApp">
+    <img src="/docs/budgetsplash.png" alt="BudgetApp SplashScreen">
+  </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -85,7 +86,7 @@
 ## Using the Budget App
 
 How to use our application
-Visit WEBSITELINK, see what our product does and sign up to use!
+Visit [here](https://budget.mbutcher.dev), see what our product does and sign up to use!
 
 
 <!-- USAGE EXAMPLES -->
@@ -102,7 +103,7 @@ Some screenshots and usages of our application
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Initial set-up of the GitHub repo, team members added and project created
+- [x] Initial set-up of the GitHub repo, team members added and project created
 - [ ] Working landing page, registration, login, homepage
 
 See the [open issues](https://github.com/cjparsonson/BudgetApp/issues) for a full list of proposed features (and known issues).
